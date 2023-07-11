@@ -1,3 +1,4 @@
+//CODE BY MD20M
 const { Player, QueryType } = require("discord-player");
 const config = require("./config.json");
 const { Client, Partials, Collection, GatewayIntentBits, GuildMember } = require('discord.js');
